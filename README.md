@@ -1,3 +1,53 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # p2v_vs_v2p_vs_p1v
 
 Attention : p1v est le nom que je donne à cette technique et cette désignation n'est pas officielle alors que p2v l'est
